@@ -1,6 +1,14 @@
+<div align="center">
 
-Interactive Mobile Phone Sales Dashboard using Power BI
 # 📱 Mobile Phone Sales Dashboard | Power BI
+
+<img src="MOBILE SALES DASHBOARD IMG.png" alt="Mobile Phone Sales Dashboard" width="100%">
+
+### Interactive Mobile Phone Sales Dashboard using Power BI
+
+</div>
+
+---
 
 ## 📌 Project Overview
 
@@ -40,10 +48,6 @@ The dashboard helps analyze sales performance and understand customer purchasing
 - Brand-wise filtering
 - Interactive dashboard elements
 
-## 📷 Dashboard Preview
-
-![Mobile Phone Sales Dashboard](MOBILE SALES DASHBOARD IMG.png)
-
 ## 🎯 Project Objectives
 
 - Analyze mobile phone sales performance.
@@ -56,7 +60,7 @@ The dashboard helps analyze sales performance and understand customer purchasing
 ## 📂 Project Files
 
 - `Mobile_Phone_Sales_Dashboard.pbix` – Power BI project file.
-- `Dashboard_Screenshot.png` – Dashboard preview.
+- `MOBILE SALES DASHBOARD IMG.png` – Dashboard preview.
 
 ## 👩‍💻 Author
 
